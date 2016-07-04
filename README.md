@@ -5,7 +5,7 @@
 
 ## Features
 
-* It can replace wem sound and save all event's and other's data.
+* It can list, extract and replace wem sounds saving all other data (headers, events, etc).
 
 ## Requirements
 
