@@ -5,3 +5,7 @@
 ## Features
 
 * It can replace wem sound and save all event's and other's data.
+
+## Requirements
+
+* Python3
